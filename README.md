@@ -28,7 +28,7 @@
 - To run and migrate the tables into the database
 
     ```bash
-    Update-Migration 
+    Update-Database 
    ```
 - 
 
